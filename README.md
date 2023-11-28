@@ -5,7 +5,7 @@
 
 <div class="ios-developer">
 
-| ![Do-hyun-Kim](https://avatars.githubusercontent.com/u/23008224?v=4) | ![ronick-grammer](https://avatars.githubusercontent.com/u/73280175?v=4) | ![vichye-1](https://avatars.githubusercontent.com/u/143997859?s=40&v=4) | ![Hminchae](https://avatars.githubusercontent.com/u/103357078?v=4) |
+| ![Do-hyun-Kim](https://avatars.githubusercontent.com/u/23008224?v=4) | ![ronick-grammer](https://avatars.githubusercontent.com/u/73280175?v=4) | ![vichye-1](https://avatars.githubusercontent.com/u/66904886?v=4) | ![Hminchae](https://avatars.githubusercontent.com/u/103357078?v=4) |
 | :---------------------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------------------: | :-----------------------------------------------------------------: |
 |               [김도현](https://github.com/Do-hyun-Kim)             |               [김영현](https://github.com/ronick-grammer)                |               [양승혜](https://github.com/vichye-1)               |                         [황민채](https://github.com/Hminchae)               |
 
