@@ -11,6 +11,15 @@
 
 </div>
 
+## iOS
+- Bounds 와 Frame 의 차이점을 설명하시오.
+
+
+
+
+
+
+<br>
 
 ## Swift
 - [struct와 class와 enum의 차이를 설명하시오.](https://github.com/Apple-CS-interview/iOS-CS-intervew/issues/1)
