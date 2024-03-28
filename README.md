@@ -1,5 +1,5 @@
 # iOS-CS-interview
-- [참고 사이트](https://github.com/JeaSungLEE/iOSInterviewquestions/blob/master/oldREADME.md)
+- [참고 사이트](https://github.com/JeaSungLEE/iOSInterviewquestions/tree/21e02ed5929666c6046903e20ff469f3983a7381)
 
 ### Study Member
 
